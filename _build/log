@@ -1,0 +1,5 @@
+# dune init proj beam
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/raymonddeng/Desktop/github/beam
+# Auto-detected concurrency: 8
